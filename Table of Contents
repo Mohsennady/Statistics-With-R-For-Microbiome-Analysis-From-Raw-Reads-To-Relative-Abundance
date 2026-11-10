@@ -1,0 +1,43 @@
+Chapter 1: Installing R and RStudio
+1.1. Installing R
+1.2. Installing Rstudio
+Chapter 2: Getting Started with R and RStudio
+2.1. The R Console
+2.2. Rstudio
+Chapter 3: Microbiome Data
+3.1. The Microbiome
+3.2. Microbiome Research and Dna Sequencing
+3.3. Microbiome Data
+References
+Chapter 4: Quality Control of Reads
+4.1. The Data
+4.2. Loading Packages
+4.3. Reading the Data Into R
+4.4. Separate Forward/Reverse Reads
+4.5. Extract Sample Names From Fastq Files
+4.6. Specify the Full Path to the Forward and Reverse Reads
+4.7. Quality Control of Reads
+References
+Chapter 5: Infer Sequence Variants
+5.1. Preliminary Steps
+5.2. Dada2 Pipeline
+Chapter 6: Assign Taxonomy
+6.1 Preliminary Steps
+6.2 Assign Taxonomy
+6.3 Construct Phylogenetic Tree
+6.4 Save Important Objects
+References
+Chapter 7: Phyloseq Object
+7.1 Loading Necessary Packages
+7.2 Phyloseq Object
+7.4 Components of Phyloseq Object
+7.3 Building Phyloseq Object
+7.5 Cleaning Phyloseq Object
+7.6. Save Cleaned Phyloseq Object
+References
+Chapter 8: Phyloseq Abundance
+8.1 Load Necessary Packages
+8.2 Read the Phyloseq Object
+8.3 Absolute Abundance Plots
+8.4 Relative Abundance Plots
+8.5 Two Variables and Relative Abundance
